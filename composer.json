@@ -1,0 +1,19 @@
+{
+    "name": "mdabagh/laravel-tracker",
+    "description": "A package for tracking user requests in Laravel",
+    "authors": [
+        {
+            "name": "mdabagh",
+            "email": "m3dabagh@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mdabagh\\LaravelTracker\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support": "^8.0"
+    },
+    "minimum-stability": "dev"
+}
